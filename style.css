@@ -168,7 +168,7 @@ transform: scale(1,1) translate(0px, 0px);
 
 /* Slideshow container */
 .slideshow-container {
-    width: 90%;
+    width: 100%;
     position: relative;
     margin: auto;
   }
